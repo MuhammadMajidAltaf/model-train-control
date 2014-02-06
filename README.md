@@ -1,5 +1,5 @@
 model-train-control
-###################
+===================
 
 ECE 4534 Model Train Control Spartan-3E/Microblaze Code
 
